@@ -22,7 +22,7 @@ This project processes and analyzes sales data from a CSV file, stores it in a M
 
     ```sh
     For running go to the following paths and run the executables
-    These are different exe's for all the requirements
+    These are different executables for all the requirements
 
     1.DataLoading  (Data Loading from csv file)
         dataloading/loadData.exe
