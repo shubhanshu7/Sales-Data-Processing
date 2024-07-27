@@ -20,19 +20,20 @@ This project processes and analyzes sales data from a CSV file, stores it in a M
 
 2. **Run the application:**
 
+    ```sh
     For running go to the following paths and run the executables
     These are different exe's for all the requirements
-    
+
     1.DataLoading  (Data Loading from csv file)
         dataloading/loadData.exe
         ## please put csv file in this path before running the exe
-
+    
     2.RefreshMechanism (Data Refresh Mechanism)
         refreshMechanism/refreshMechanism.exe
 
     3.API Server (RESTful API for Analysis)
         controller/server.exe
-    
+   ```
 
 ### API Endpoints
 
